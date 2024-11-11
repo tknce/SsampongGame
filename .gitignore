@@ -49,6 +49,7 @@ Plugins/Developer/RiderLink
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
+!resourse
 
 # Binary Files
 Binaries/*
